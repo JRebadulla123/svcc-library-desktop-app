@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Tgc1R6rJ76Xltxs6fUFRG1i8LXmrQEsEdklTaWxG2XDx4E08UC3tEFARwSPG0J2MAKGCYVbl2vYvIS6jP65sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Russ\\source\\repos\\practice-library\\practice-library\\practice-library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Russ\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
